@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Nadav Levy
-- 👀 I’m interested in ML, Signal Proccessing, Electronic Devices
+- 👀 I’m interested in ML, Signal Proccessing, Software and system design
 - 🌱 Graduated Bs.c in ELectrical & Computer Engineering in BGU Univercity
-- 📫 My Email is nadklayn@gmail
+- 📫 Email nadklayn@gmail
